@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "370848546087",
+    "project_id": "chat-app-1436",
+    "storage_bucket": "chat-app-1436.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370848546087:android:0fb23cd30377e07a08bd02",
+        "android_client_info": {
+          "package_name": "com.jaiimpu.chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370848546087-hfgs7onhjg4mg2u8hj9n2bgarsk475o6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM2jpTZl3ApCqIrUKOWuZktnyt5Sqb9v8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370848546087-hfgs7onhjg4mg2u8hj9n2bgarsk475o6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
